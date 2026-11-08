@@ -2,7 +2,7 @@
 
 Game-theoretic allocation of a security budget: a 500-person fintech firm splits a fixed budget across six assets, and a ransomware crew attacks the asset that pays it best. The site compares five allocation strategies (risk-ranked, proportional, uniform, textbook Stackelberg equilibrium, robust quantal-response equilibrium) and tests each against a misjudged attacker.
 
-**Live site:** [patrick-lefler.com/rQuarto_defender_attacker-game_theory](https://patrick-lefler.com/rQuarto_defender_attacker-game_theory/)
+**Live site:** [patrick-lefler.com/rQuarto_defender_attacker-game_theory](https://patrick-lefler.com/rQuarto_defender_attacker_game_theory_2026-11-05/)
 
 All values are synthetic and illustrative. Not investment or security advice.
 
