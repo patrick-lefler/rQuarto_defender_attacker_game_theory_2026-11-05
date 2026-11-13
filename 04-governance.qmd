@@ -129,6 +129,6 @@ tibble::tibble(
 ```{r}
 #| label: session-information
 #| echo: false
-utils::sessionInfo()
+sessioninfo::session_info()
 ```
 :::

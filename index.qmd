@@ -1,6 +1,8 @@
 ---
 title: "Where Will the Attacker Strike?"
 subtitle: "Game-Theoretic Allocation of a Security Budget: Executive Summary"
+author: Patrick lefler
+date: November 5, 2026
 ---
 
 ```{r}
